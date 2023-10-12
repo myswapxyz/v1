@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8d1bdf0f.css",
+    "main.js": "/static/js/main.98048cca.js",
+    "static/media/bg-mobile-new.png": "/static/media/bg-mobile-new.8ef69a86aa9f0c12a1aa.png",
+    "static/media/bg_dark.png": "/static/media/bg_dark.f921cfc091440b863954.png",
+    "static/media/promotionPopup.svg": "/static/media/promotionPopup.91a263b9f5ab2ae952338bf1cbc24b83.svg",
+    "static/media/braavos-logo.svg": "/static/media/braavos-logo.1408a4ec318968f9ac5f26fda5326e93.svg",
+    "static/media/analytics_text.svg": "/static/media/analytics_text.cdd9df82c9864610eda90c6c8876c0b2.svg",
+    "static/media/logo_header_mobile.svg": "/static/media/logo_header_mobile.d3573c3656576eedc9470f1447658911.svg",
+    "static/media/logo_desktop.svg": "/static/media/logo_desktop.2afccbcc1b476e7fe722458981fd5ea9.svg",
+    "static/media/setting.svg": "/static/media/setting.f4d42faaccbbdab800d9c2653959747f.svg",
+    "static/media/starknetLogo.svg": "/static/media/starknetLogo.964cb9177600c81128cdb67a2204c19f.svg",
+    "static/media/BraavosLogo.svg": "/static/media/BraavosLogo.aa717d6aa5362040d451c3c3c0e0b762.svg",
+    "index.html": "/index.html",
+    "static/media/accept.svg": "/static/media/accept.0a59c961f13e3d11dc07ef10dac90313.svg",
+    "static/media/mySwap_logo_mobile.svg": "/static/media/mySwap_logo_mobile.a04d74e6c1f7c04d48375d540f532342.svg",
+    "static/media/twitter.svg": "/static/media/twitter.c4fcb46cf288bb69e30fb77d09cbc489.svg",
+    "static/media/pending.svg": "/static/media/pending.6c8918f4457c702585bb466a1e8d76b2.svg",
+    "static/media/discord.svg": "/static/media/discord.65d009484ef84d8910d6c19883734389.svg",
+    "static/media/stars.svg": "/static/media/stars.ad7583746b067c774e6ab7927eb53f5c.svg",
+    "static/media/helptip.svg": "/static/media/helptip.62c42550c940843b5d68458acc14b9a3.svg",
+    "static/media/telegram.svg": "/static/media/telegram.13de47dbaca3897ce2c0d11a1325478f.svg",
+    "static/media/leave.svg": "/static/media/leave.b23a74d9ab10fa3e07d0436b76253df2.svg",
+    "static/media/outgoingLink.svg": "/static/media/outgoingLink.708671f79303a94a13c5c52b0509ac61.svg",
+    "static/media/xIcon.svg": "/static/media/xIcon.7e7cbb905e15d59046eb6af1ba6d7df9.svg",
+    "static/media/close.svg": "/static/media/close.c0731513dd900d4a88cee4e0f203c4d1.svg",
+    "static/media/copy.svg": "/static/media/copy.3258657cf2fcb395ee761e0da21ed33a.svg",
+    "static/media/backIcon.svg": "/static/media/backIcon.ab4fb0b50c9e3761ba6597dde5aad467.svg",
+    "static/media/swap.svg": "/static/media/swap.333d152e769d68e7fc2b3c2e60e9cde4.svg",
+    "static/media/arrowDown.svg": "/static/media/arrowDown.77b34814826828b662dba402925465c6.svg",
+    "static/media/switch.svg": "/static/media/switch.07af378503e9414f52531115d2f39f73.svg"
+  },
+  "entrypoints": [
+    "static/css/main.8d1bdf0f.css",
+    "static/js/main.98048cca.js"
+  ]
+}
