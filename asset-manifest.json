@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.061cbee7.css",
-    "main.js": "/static/js/main.11812578.js",
+    "main.css": "/static/css/main.8d1bdf0f.css",
+    "main.js": "/static/js/main.57342695.js",
     "static/media/bg-mobile-new.png": "/static/media/bg-mobile-new.8ef69a86aa9f0c12a1aa.png",
     "static/media/bg_dark.png": "/static/media/bg_dark.f921cfc091440b863954.png",
     "static/media/promotionPopup.svg": "/static/media/promotionPopup.91a263b9f5ab2ae952338bf1cbc24b83.svg",
     "static/media/braavos-logo.svg": "/static/media/braavos-logo.1408a4ec318968f9ac5f26fda5326e93.svg",
+    "static/media/myswap.svg": "/static/media/myswap.5cf5c2b29316636d21294d19591035f1.svg",
     "static/media/analytics_text.svg": "/static/media/analytics_text.cdd9df82c9864610eda90c6c8876c0b2.svg",
     "static/media/logo_header_mobile.svg": "/static/media/logo_header_mobile.d3573c3656576eedc9470f1447658911.svg",
     "static/media/logo_desktop.svg": "/static/media/logo_desktop.2afccbcc1b476e7fe722458981fd5ea9.svg",
@@ -32,7 +33,7 @@
     "static/media/switch.svg": "/static/media/switch.07af378503e9414f52531115d2f39f73.svg"
   },
   "entrypoints": [
-    "static/css/main.061cbee7.css",
-    "static/js/main.11812578.js"
+    "static/css/main.8d1bdf0f.css",
+    "static/js/main.57342695.js"
   ]
 }
